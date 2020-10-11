@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/thread" />
             <option value="$PROJECT_DIR$/time_button" />
           </set>
         </option>

@@ -1,2 +1,3 @@
+include ':thread'
 include ':time_button'
 rootProject.name = "study"
