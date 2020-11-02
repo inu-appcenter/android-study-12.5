@@ -6,8 +6,6 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    // private val repository = TextRepository(this/* 나쁘지만어쩔수없는선택 */)
-
     private val repository: TextRepository by lazy {
         TextRepository(this/* 나쁘지만어쩔수없는선택 */)
     }
