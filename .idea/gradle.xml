@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/recycler" />
+            <option value="$PROJECT_DIR$/repository" />
             <option value="$PROJECT_DIR$/thread" />
             <option value="$PROJECT_DIR$/time_button" />
           </set>
