@@ -1,3 +1,4 @@
+include ':mvvm'
 include ':repository'
 include ':recycler'
 include ':thread'
