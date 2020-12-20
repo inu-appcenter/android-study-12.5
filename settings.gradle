@@ -1,3 +1,4 @@
+include ':view_binding'
 include ':mvvm'
 include ':repository'
 include ':recycler'

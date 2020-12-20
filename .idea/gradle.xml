@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/repository" />
             <option value="$PROJECT_DIR$/thread" />
             <option value="$PROJECT_DIR$/time_button" />
+            <option value="$PROJECT_DIR$/view_binding" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
